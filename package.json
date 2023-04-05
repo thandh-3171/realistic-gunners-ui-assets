@@ -1,0 +1,14 @@
+{
+	"name": "com.uiux.realistic",
+	"displayName": "UIUX : Realistic",
+	"version": "1.0.0",
+	"unity": "2021.3",
+	"author": "Do Hoang Than",
+	"description": "UIUX",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thandh-3171/realistic-gunners-ui-assets.git"
+	}
+}
